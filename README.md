@@ -1,6 +1,6 @@
 
  
-### <h1 align="center">< I'm Josh, a Software Developer with a front-end focus /></h1>  
+### <h1 align="center">Hello, I'm Josh 🖖🏼<br/> < Software Developer /></h1>  
 
 <div align="center">
 <a href="https://github.com/jrmedina" target="_blank">
@@ -70,12 +70,14 @@
 <a href="https://www.jestjs.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jest.svg" alt="Jest" height="50" /></a>  
 <a href="https://mochajs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mocha.png" alt="Mocha" height="50" /></a>  
 <a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
+ <a href="https://circleci.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Circleci-icon-logo.svg/1200px-Circleci-icon-logo.svg.png" alt="CircleCi" height="50" /></a>  
+  <a href="https://cypress.io/" target="_blank"><img style="margin: 10px" src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,f_auto,q_auto:eco,dpr_1/ih3wgcjnztxkqpvy8t8b" alt="Cypress" height="50" /></a>  
 </div>
 
 </td></tr></table>  
 
   
- # <h2 align="center">Currently Listening To 👇</h1> 
+ # <h2 align="center">Currently Listening To 👇🏼</h1> 
   
   <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nebulasativa&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>  
 
