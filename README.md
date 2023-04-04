@@ -1,24 +1,7 @@
 
+ 
+### <h1 align="center">< I'm Josh, a Software Developer with a front-end focus /></h1>  
 
-### <div align="center">< I'm Josh, a Software Developer with a front-end focus /></div>  
-  
-
-- 🔭 I’m currently looking for a full-time developer role  
-  
-
-- 🌱 I’m currently learning MongoDB and GraphQL  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I used to play video games competitively   
-  
-
-<br/>  
-
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/jrmedina" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -31,11 +14,23 @@
 </a>  
 </div>  
   
+<br/>   
+<div align="center">
+  
+🔭 I’m currently looking for a full-time developer role 
+  
+🌱 I’m currently learning MongoDB and GraphQL  
+  
 
-<br/>  
+❓ Ask me about anything related to MERN stack and related technologies  
+  
+
+⚡ Fun fact: I used to play video games competitively   
+  </div>  
 
 
-## My Skill Set  
+## <h2 align="center">My Skillset</h1> 
+
 <table><tr><td valign="top" width="33%">
 
 
@@ -79,19 +74,11 @@
 
 </td></tr></table>  
 
-<br/>  
+  
+ # <h2 align="center">Currently Listening To 👇</h1> 
+  
+  <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nebulasativa&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>  
 
-
-## Github Stats  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jrmedina&hide_border=true&layout=compact" align="left" />  
-
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=jrmedina&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nebulasativa&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=jrmedina&&style=flat-square" align="center" />
@@ -101,5 +88,3 @@
 <br/>  
 
 <div align="center"></div>
-<br />
-
