@@ -25,7 +25,7 @@
 ❓ Ask me about anything related to MERN stack and related technologies  
   
 
-⚡ Fun fact: I used to play video games competitively   
+🎮 Fun fact: I used to play video games competitively   
   </div>  
 
 
