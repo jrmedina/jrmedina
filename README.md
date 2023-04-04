@@ -29,7 +29,7 @@
   </div>  
 
 
-## <h2 align="center">My Skillset</h1> 
+ <h2 align="center">My Skillset ⚡️</h1> 
 
 <table><tr><td valign="top" width="33%">
 
@@ -77,7 +77,7 @@
 </td></tr></table>  
 
   
- # <h2 align="center">Currently Listening To 👇🏼</h1> 
+ <h2 align="center">Currently Listening To 👇🏼</h1> 
   
   <div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=nebulasativa&cover_image=true&theme=compact&show_offline=false&background_color=121212&interchange=false" /></div>  
 
