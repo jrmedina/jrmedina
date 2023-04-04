@@ -1,5 +1,3 @@
-
- 
 ### <h1 align="center">Hello, I'm Josh 🖖🏼<br/> < Software Developer /></h1>  
 
 <div align="center">
