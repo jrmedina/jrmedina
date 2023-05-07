@@ -27,7 +27,7 @@
   </div>  
 
 
- <h2 align="center">My Skillset ⚡️</h1> 
+ <h2 align="center">My Skillset ⚡️</h2> 
 
 <table><tr><td valign="top" width="33%">
 
