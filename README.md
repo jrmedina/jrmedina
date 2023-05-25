@@ -15,8 +15,6 @@
 <br/>   
 <div align="center">
   
-🔭 I’m currently looking for a full-time developer role 
-  
 🌱 I’m currently learning MongoDB and GraphQL  
   
 
